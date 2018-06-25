@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':threadex2', ':handlerex1', ':handlerex2', ':handlerex3'

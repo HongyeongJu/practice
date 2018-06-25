@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/handlerex1" />
+            <option value="$PROJECT_DIR$/handlerex2" />
+            <option value="$PROJECT_DIR$/handlerex3" />
+            <option value="$PROJECT_DIR$/threadex2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
